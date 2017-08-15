@@ -1,2 +1,3 @@
-# showdate
-使用bootstrap实现日期插件
+﻿# showdate
+bootstrap实现日期插件的学习：
+
